@@ -1,6 +1,7 @@
 let quoteEl = document.getElementById('quote-text')
 let citeEl = document.getElementById('cite')
-let quotes = [{quote:`The purpose of our lives is to be happy.`,
+let quotes = [
+{quote:`The purpose of our lives is to be happy.`,
     name:  `Dalai Lama`},
 {quote:`Life is what happens when you’re busy making other plans.`,
     name:`John Lennon`},
